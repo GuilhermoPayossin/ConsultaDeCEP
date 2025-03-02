@@ -5,6 +5,7 @@
 - Neste projeto, fiz uma aplicação em Java que permite a busca de um endereço com um CEP!
 - As informações são gravadas em um arquivo
 - O uso da API pública do ViaCEP é fundamental para o funcionamento
+- Também é usada a API do Google: a Gson
 
 ## Informações adicionais
 
